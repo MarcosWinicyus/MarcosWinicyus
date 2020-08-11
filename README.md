@@ -1,3 +1,5 @@
+
+
 ### Hey, I'm Marcos Winicyus! 👋
 
 - My purpose 💡
@@ -16,9 +18,10 @@
     <code><img height="20" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
     <code><img height="20" src="https://user-images.githubusercontent.com/48025551/89942049-44240000-dbf2-11ea-8053-8367c5a634ee.png"></code>
+    <code><img height="20" src="https://media.githubusercontent.com/media/nteract/logos/bcd24bb884fc5a31412c8c2d6ee1085f789566b3/nteract_papermill/exports/images/png/papermill_logo_compact.png"></code>
     <code><img height="20" src="https://lh3.googleusercontent.com/proxy/WMZstkxSxXnqgZ-DwPcAITjEZBJUm1ZBna5ya8jfJWIw6VLiwlF9bRHot0Loj2c1odXq_roQYhNmi0AqbqJ7wqIODDA"></code>
-    <code><img height="20" src="https://paganresearch.io/images/anaconda.png"></code>
     <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code>
+    <code><img height="20" src="https://paganresearch.io/images/anaconda.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
     <code><img height="20" src="https://user-images.githubusercontent.com/48025551/89942466-feb40280-dbf2-11ea-914a-9ee6af5ad9b0.png"></code>
     <code><img height="20" src="https://img2.gratispng.com/20180702/bgt/kisspng-mongodb-database-nosql-postgresql-mongo-5b39f9e3445fa6.5652746415305261792801.jpg"></code>
@@ -30,6 +33,7 @@
     <code><img height="20" src="https://user-images.githubusercontent.com/48025551/89943141-22c41380-dbf4-11ea-9be9-232c6ced6daf.jpg"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
+    
 - What I'm working on 👨‍💻
 
 - What I'm learning 🌱
@@ -42,4 +46,4 @@
     ![Twitter](https://img.shields.io/twitter/follow/marck_wini?label=Follow)
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love sharing knowledge, so if you want to talk about technology use the LinkedIn, I'll be happy to meet you!</b> 😊</em>
