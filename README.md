@@ -3,6 +3,7 @@
 ### Hey, I'm Marcos Winicyus! 👋
 
 - My purpose 💡
+
     I create ideas and develop solutions using my creativity and my technical knowledge, my development bases are Python and Javascript, where I have a great experience with the processing of raw data for BI's and the visualization in interactive Dashboards developed with React
 
 
