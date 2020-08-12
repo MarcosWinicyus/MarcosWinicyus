@@ -37,6 +37,8 @@
 - What I'm working on 👨‍💻
 
     I'm building a task orchestration system with Apache Airflow <code><img height="10" src="https://user-images.githubusercontent.com/48025551/89942049-44240000-dbf2-11ea-8053-8367c5a634ee.png"></code> so automating the execution and architecting pipelines from Jupyter notebooks <code><img height="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code> with papermill <code><img height="10" src="https://media.githubusercontent.com/media/nteract/logos/bcd24bb884fc5a31412c8c2d6ee1085f789566b3/nteract_papermill/exports/images/png/papermill_logo_compact.png"></code>
+    
+    [![dev_jupyter_airflow_docker-Go](https://img.shields.io/badge/Papermil_Airflow_Docker-Go-1f425f.svg)](https://github.com/MarcosWinicyus/dev-jupyter-airflow-docker)
 
 <!-- - What I'm learning 🌱 -->
 
