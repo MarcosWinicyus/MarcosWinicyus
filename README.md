@@ -1,7 +1,7 @@
 
 
 ### Hey, I'm Marcos Winicyus! 👋
-
+<!-- 
 - My purpose 💡
 
     I create ideas and develop solutions using my creativity and my technical knowledge, my development bases are Python and Javascript, where I have a great experience with the processing of raw data for BI's and the visualization in interactive Dashboards developed with React
@@ -31,7 +31,7 @@
     <code><img height="20" src="https://images.squarespace-cdn.com/content/v1/592e86ee9de4bb6e73d8c154/1514032294927-RQFIXIR332YVK2D58E64/ke17ZwdGBToddI8pDm48kKDpgNR86wHb9rK2Z-rJDk5Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFgVnh1ouJBzzcVsowoUcyUM2gKs4UUyTig_7oGFCP1TmQ6l2WM7tn7mqHTODzkmeM/32078472-5053adea-baa7-11e7-9034-519002f12ac7.png"></code>
     <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png"></code>
     <code><img height="20" src="https://user-images.githubusercontent.com/48025551/89943141-22c41380-dbf4-11ea-9be9-232c6ced6daf.jpg"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> -->
 
     
 <!-- - What I'm working on 👨‍💻
